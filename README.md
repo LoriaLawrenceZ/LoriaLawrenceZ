@@ -39,7 +39,7 @@
   </div>  
   
   ##
-  
+
   ![Snake animation](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/blob/output/github-contribution-grid-snake.svg)
   
   ##
