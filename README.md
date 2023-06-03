@@ -17,7 +17,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
 </p>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&bg_color=black&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&bg_color=black&color=white&line=aliceblue&point=white&hide_border=true" /></a>
 
 ##
   
