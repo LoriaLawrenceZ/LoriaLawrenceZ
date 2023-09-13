@@ -41,10 +41,6 @@
   </div>  
   
   ##
-
-  ![Snake animation](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
   
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
