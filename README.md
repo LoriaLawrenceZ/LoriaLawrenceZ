@@ -30,11 +30,11 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#28](https://github.com/LoriaLawrenceZ/Status/issues/28) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
-2. 🔒 Closed issue [#29](https://github.com/LoriaLawrenceZ/Status/issues/29) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
-3. ❗ Opened issue [#29](https://github.com/LoriaLawrenceZ/Status/issues/29) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
-4. ❗ Opened issue [#28](https://github.com/LoriaLawrenceZ/Status/issues/28) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
-5. 🔒 Closed issue [#27](https://github.com/LoriaLawrenceZ/Status/issues/27) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+1. 🎉 Merged PR [#2](https://github.com/OZimbres/S2-POO-SA3/pull/2) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+2. 💪 Opened PR [#2](https://github.com/OZimbres/S2-POO-SA3/pull/2) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+3. 🎉 Merged PR [#1](https://github.com/OZimbres/S2-POO-SA3/pull/1) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+4. 💪 Opened PR [#1](https://github.com/OZimbres/S2-POO-SA3/pull/1) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+5. 🎉 Merged PR [#17](https://github.com/OZimbres/VTL-SA2/pull/17) in [OZimbres/VTL-SA2](https://github.com/OZimbres/VTL-SA2)
 <!--END_SECTION:activity-->
 
 ##
