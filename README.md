@@ -28,6 +28,17 @@
 
 ##
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
+1. 🔒 Closed issue [#28](https://github.com/LoriaLawrenceZ/Status/issues/28) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+2. 🔒 Closed issue [#29](https://github.com/LoriaLawrenceZ/Status/issues/29) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+3. ❗ Opened issue [#29](https://github.com/LoriaLawrenceZ/Status/issues/29) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+4. ❗ Opened issue [#28](https://github.com/LoriaLawrenceZ/Status/issues/28) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+5. 🔒 Closed issue [#27](https://github.com/LoriaLawrenceZ/Status/issues/27) in [LoriaLawrenceZ/Status](https://github.com/LoriaLawrenceZ/Status)
+<!--END_SECTION:activity-->
+
+##
+
 <p align="center">
   <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
 </p>
