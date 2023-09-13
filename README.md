@@ -11,11 +11,12 @@
 <p align="center">
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
       <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=ff0080&style=for-the-badge&labelColor=ff0080&logo=star">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=ff0080&style=for-the-badge&labelColor=gray&logo=star">
     </a>
     <a href="https://github.com/LoriaLawrenceZ?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=ff0080&labelColor=ff0080&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a> 
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=ff0080&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 ##
@@ -33,7 +34,20 @@
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 
+
+
 ##
+
+<p align="center">
+  <!--Olhar ddepois o svg do mano, dá pra fazer meu 3d-->
+  <a href="https://github.com/LoriaLawrenceZ"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
+</p>
+
+##
+
+
+
   
 <div style="display: inline_block" align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" height="60" width="80"/>
