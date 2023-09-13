@@ -1,14 +1,28 @@
 <!-- ### Hi, I'm Lorenzo O. Zimbres -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lorenzo+O.+Zimbres;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+systems+development+at+SENAI;Be+Welcome!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+systems+development+at+SENAI;Be+Welcome!)](https://git.io/typing-svg)
+
+<p align="center">
+    <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
+      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-ff0080?style=for-the-badge&logoColor=white&logo=repo">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=ff0080&style=for-the-badge&labelColor=ff0080&logo=star">
+    </a>
+    <a href="https://github.com/LoriaLawrenceZ?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=ff0080&labelColor=ff0080&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a> 
+</p>
 
 ##
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
 
 ##
@@ -50,7 +64,7 @@
   
   ##
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer"/>
 
 <!--
 **LoriaLawrenceZ/LoriaLawrenceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
