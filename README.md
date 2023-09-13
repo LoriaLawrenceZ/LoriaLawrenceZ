@@ -75,7 +75,7 @@
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
+    <img title="🐍 Snake contributions" src="https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/blob/output/github-contribution-grid-snake-dark.svg">
   </p>
 </details>
   
