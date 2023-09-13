@@ -68,6 +68,16 @@
   <a href="https://www.instagram.com/lorialawrencez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lorenzozimbresfilmmaker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>  
+
+  ##
+
+<details open>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
+
+  <p align="center">
+    <img title="🐍 Snake contributions" src="https://github.com/Julius-Ulee/Julius-Ulee/blob/output/github-contribution-grid-snake-dark.svg">
+  </p>
+</details>
   
   ##
   
