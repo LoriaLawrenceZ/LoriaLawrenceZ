@@ -31,8 +31,8 @@
 
   <h3>🔥 Streak Stats</h3>
   <p align="center">
-    <a href="https://github.com/Julius-Ulee">
-      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/LoriaLawrenceZ">
+      <img title="🔥 Get streak stats for your profile" alt="LoriaLawrenceZ's streak" src="https://streak-stats.demolab.com/?user=LoriaLawrenceZ&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
