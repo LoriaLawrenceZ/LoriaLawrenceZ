@@ -172,7 +172,7 @@
   </p>
 </details>
 
-<details open>
+<details close>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
