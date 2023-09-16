@@ -34,21 +34,9 @@
     <a href="https://github.com/LoriaLawrenceZ/Certificates">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-    <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a>
-    <a href="https://github.com/OZimbres/S2-POO-SA3">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a>
-    <a href="https://github.com/OZimbres/VTL-SA2">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
     <a href="https://github.com/LoriaLawrenceZ/Password-Game">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-    <a href="https://github.com/ZimbresAguilar/RPG-Translator-Observador">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a>
     <a href="https://github.com/LoriaLawrenceZ/SAPOO">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
@@ -61,34 +49,24 @@
     </a>
 </details>
 
-##
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-2. 💪 Opened PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-3. 🎉 Merged PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-4. 💪 Opened PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-5. 🎉 Merged PR [#4](https://github.com/OZimbres/S2-POO-SA3/pull/4) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-<!--END_SECTION:activity-->
-
-##
-
-<p align="center">
-  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
-</p>
-
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
-
-
-
-##
-
-<p align="center">
-  <!--Olhar ddepois o svg do mano, dá pra fazer meu 3d-->
-  <a href="https://github.com/LoriaLawrenceZ"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
-</p>
+<details open>
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+   <p align="left">
+      <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      </a>
+      <a href="https://github.com/OZimbres/S2-POO-SA3">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      </a>
+      <a href="https://github.com/OZimbres/VTL-SA2">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      </a>
+      <a href="https://github.com/ZimbresAguilar/RPG-Translator-Observador">
+        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      </a>
+    </p>
+    <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </details>
 
 ##
 
@@ -140,6 +118,39 @@
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+##
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+2. 💪 Opened PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+3. 🎉 Merged PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+4. 💪 Opened PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+5. 🎉 Merged PR [#4](https://github.com/OZimbres/S2-POO-SA3/pull/4) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+<!--END_SECTION:activity-->
+
+##
+
+<p align="center">
+  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
+</p>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+
+
+
+##
+
+<p align="center">
+  <!--Olhar ddepois o svg do mano, dá pra fazer meu 3d-->
+  <a href="https://github.com/LoriaLawrenceZ"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
+</p>
+
+##
+
+
   
 ##
   
