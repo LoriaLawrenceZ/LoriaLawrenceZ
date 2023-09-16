@@ -36,6 +36,7 @@
     </a>
   </p>
 
+  <h3>💻 GitHub Profile Stats</h3>
   <p align="center">
     <!--Olhar depois o svg do mano, dá pra fazer meu 3d-->
     <a href="https://github.com/LoriaLawrenceZ">
