@@ -77,7 +77,7 @@
 
 
 
-<details close> 
+<details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -102,7 +102,7 @@
 
 
 
-<details close>
+<details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
    <p align="left">
       <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
@@ -123,7 +123,7 @@
 
 
 
-<details close> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -172,7 +172,7 @@
   </p>
 </details>
 
-<details close>
+<details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
