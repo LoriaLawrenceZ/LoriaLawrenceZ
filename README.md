@@ -50,7 +50,7 @@
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-  
+
   1. 🎉 Merged PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
 
   2. 💪 Opened PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
@@ -67,10 +67,10 @@
 ##
 
 <details open>
-<summary><h2>🏆 My Trophy</h2></summary>
+<summary><h2>🏆 My Trophies</h2></summary>
 
   <p align="center">
-    <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15">
+    <img title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15">
   </p>
 </details>
 
