@@ -42,8 +42,6 @@
       <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
       <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
     </a>
-    > **Note**
-    > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>  
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
