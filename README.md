@@ -19,10 +19,43 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
-</div>
+<details open>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <a href="https://github.com/Julius-Ulee">
+      <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+  
+  <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
+  </div>
+
+  <p align="center">
+    <!--Olhar depois o svg do mano, dá pra fazer meu 3d-->
+    <a href="https://github.com/LoriaLawrenceZ">
+      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+      <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+    </a>
+    > **Note**
+    > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+  2. 💪 Opened PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+  3. 🎉 Merged PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+  4. 💪 Opened PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+  5. 🎉 Merged PR [#4](https://github.com/OZimbres/S2-POO-SA3/pull/4) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+  <!--END_SECTION:activity-->
+
+</details>
+
 
 ##
 
@@ -48,6 +81,8 @@
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </details>
+
+##
 
 <details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
@@ -121,31 +156,38 @@
 
 ##
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-2. 💪 Opened PR [#6](https://github.com/OZimbres/S2-POO-SA3/pull/6) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-3. 🎉 Merged PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-4. 💪 Opened PR [#5](https://github.com/OZimbres/S2-POO-SA3/pull/5) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-5. 🎉 Merged PR [#4](https://github.com/OZimbres/S2-POO-SA3/pull/4) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
-<!--END_SECTION:activity-->
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  
+  
 
+  <h3>💻 GitHub Profile Stats</h3>
+
+  
+  
+  
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+      
+  
+</details>
+
+##
 ##
 
 <p align="center">
   <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
 </p>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+ 
 
 
 
 ##
 
 <p align="center">
-  <!--Olhar ddepois o svg do mano, dá pra fazer meu 3d-->
-  <a href="https://github.com/LoriaLawrenceZ"><source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-    <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/></a>
+  
 </p>
 
 ##
