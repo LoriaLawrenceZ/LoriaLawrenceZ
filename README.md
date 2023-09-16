@@ -28,7 +28,7 @@
       <img title="🔥 Get streak stats for your profile" alt="Julius-Ulee's streak" src="https://streak-stats.demolab.com/?user=Julius-Ulee&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
-  
+
   <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
@@ -42,7 +42,10 @@
     </a>
     > **Note**
     > Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </p>  
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
@@ -56,6 +59,15 @@
 
 </details>
 
+##
+
+<details open>
+<summary><h2>🏆 My Trophy</h2></summary>
+
+  <p align="center">
+    <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15">
+  </p>
+</details>
 
 ##
 
@@ -155,57 +167,17 @@
 </details>
 
 ##
-
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
   
-  
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  
-  
-  
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
-      
-  
-</details>
+<div>
+  <h3 align="center">🌎 Find me around the web</h3>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCctqx90UaUasWNBd4Y-ps5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lorialawrencez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lorenzozimbresfilmmaker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </p>
+</div>  
 
 ##
-##
-
-<p align="center">
-  <img title="🏆 My Trophy" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15">
-</p>
-
- 
-
-
-
-##
-
-<p align="center">
-  
-</p>
-
-##
-
-
-  
-##
-  
-  <div>
-    <h3 align="center">🌎 Find me around the web</h3>
-    <p align="center">
-      <a href="https://www.youtube.com/channel/UCctqx90UaUasWNBd4Y-ps5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/lorialawrencez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:lorenzozimbresfilmmaker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    </p>
-  </div>  
-
-  ##
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
@@ -215,21 +187,6 @@
   </p>
 </details>
   
-  ##
+##
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer"/>
-
-<!--
-**LoriaLawrenceZ/LoriaLawrenceZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
