@@ -173,8 +173,16 @@
   </p>
 </details>
 
+<details open>
+  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
-  
+  <p align="center">
+    <img title="🐍 Snake contributions" src="https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/blob/output/github-contribution-grid-snake-dark.svg">
+  </p>
+</details>
+
+##
+
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
@@ -184,16 +192,4 @@
   </p>
 </div>  
 
-##
-
-<details open>
-  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-
-  <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/blob/output/github-contribution-grid-snake-dark.svg">
-  </p>
-</details>
-  
-
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer"/>
