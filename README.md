@@ -19,6 +19,8 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
+##
+
 <details open>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -182,7 +184,7 @@
   </p>
 </div>  
 
-
+##
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
