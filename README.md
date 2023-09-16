@@ -19,12 +19,47 @@
     <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=ff0080&labelColor=ff0080&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
-##
-
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
+
+##
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/LoriaLawrenceZ/Certificates">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+    <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/OZimbres/S2-POO-SA3">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/OZimbres/VTL-SA2">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+    <a href="https://github.com/LoriaLawrenceZ/Password-Game">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+    <a href="https://github.com/ZimbresAguilar/RPG-Translator-Observador">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/LoriaLawrenceZ/SAPOO">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/LoriaLawrenceZ/Banana_Brasil">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Banana_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    </p>
+    <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+</details>
 
 ##
 
