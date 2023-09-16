@@ -64,7 +64,7 @@
 
 </details>
 
-##
+
 
 <details open>
 <summary><h2>🏆 My Trophies</h2></summary>
@@ -74,7 +74,7 @@
   </p>
 </details>
 
-##
+
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -99,7 +99,7 @@
     </a>
 </details>
 
-##
+
 
 <details open>
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
@@ -120,7 +120,7 @@
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>
 
-##
+
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -171,7 +171,7 @@
   </p>
 </details>
 
-##
+
   
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
@@ -182,7 +182,7 @@
   </p>
 </div>  
 
-##
+
 
 <details open>
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
@@ -192,6 +192,6 @@
   </p>
 </details>
   
-##
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer"/>
