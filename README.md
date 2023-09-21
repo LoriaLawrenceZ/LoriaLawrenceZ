@@ -52,15 +52,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/OZimbres/S2-POO-SA3/pull/10) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+1. 🎉 Merged PR [#13](https://github.com/OZimbres/S2-POO-SA3/pull/13) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
 
-2. 🎉 Merged PR [#9](https://github.com/OZimbres/S2-POO-SA3/pull/9) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+2. 🎉 Merged PR [#12](https://github.com/OZimbres/S2-POO-SA3/pull/12) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
 
-3. 💪 Opened PR [#9](https://github.com/OZimbres/S2-POO-SA3/pull/9) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+3. 🎉 Merged PR [#11](https://github.com/OZimbres/S2-POO-SA3/pull/11) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
 
-4. 🎉 Merged PR [#8](https://github.com/OZimbres/S2-POO-SA3/pull/8) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+4. 🎉 Merged PR [#10](https://github.com/OZimbres/S2-POO-SA3/pull/10) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
 
-5. 💪 Opened PR [#8](https://github.com/OZimbres/S2-POO-SA3/pull/8) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+5. 🎉 Merged PR [#9](https://github.com/OZimbres/S2-POO-SA3/pull/9) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
   <!--END_SECTION:activity-->
 
 </details>
