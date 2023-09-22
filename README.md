@@ -24,6 +24,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
 
+<p align="center">
+    <img title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15">
+</p>
+
 ##
 
 <details open>
@@ -64,17 +68,6 @@
   <!--END_SECTION:activity-->
 
 </details>
-
-
-
-<details open>
-<summary><h2>🏆 My Trophies</h2></summary>
-
-  <p align="center">
-    <img title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=LoriaLawrenceZ&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15">
-  </p>
-</details>
-
 
 
 <details open> 
