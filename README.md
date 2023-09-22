@@ -48,9 +48,6 @@
       <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
     </a>
   </p>  
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LoriaLawrenceZ's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LoriaLawrenceZ&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
