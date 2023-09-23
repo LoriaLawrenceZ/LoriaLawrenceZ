@@ -30,15 +30,25 @@
 
 ##
 
+  ```yaml
+  name: Lorenzo Oliveira Zimbres
+  located_in: Limeira, São Paulo (Brazil)
+  job: Looking
+  education: ["Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
+  company: OZimbres
+  past_experiences:
+    - ["Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
+
+  fields_of_interests: ["Machine Learning", "Deep Learning", "Neural Networks", "Cognitive Computing",
+                        "Natural Language Processing", "Data Analysis", "Web Development", "Software Development"]
+  currently_learning: ["POO", "Software GUI", "Client-Side Programming", "Server-Side Programming",
+                        "Frameworks", "Database Managment"]
+  will_learn: ["AI"]
+  hobbies: ["Football", "Casual Gaming", "Manga", "IoT", "Robotics"]
+  ```
+
 <details open>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-  <p align="center">
-    <a href="https://github.com/LoriaLawrenceZ">
-      <img title="🔥 Get streak stats for your profile" alt="LoriaLawrenceZ's streak" src="https://streak-stats.demolab.com/?user=LoriaLawrenceZ&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
   <p align="center">
