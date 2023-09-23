@@ -13,7 +13,6 @@ jobs:
       - uses: LoriaLawrenceZ/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
