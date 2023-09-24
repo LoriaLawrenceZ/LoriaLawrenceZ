@@ -130,15 +130,16 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://www.java.com/"><img alt="Java" src="https://staging.shields.io/badge/JAVA-007396?logo=javalogo&color=E95420&logoColor=white"></a>
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>  
+      <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -155,6 +156,8 @@
       <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white"></a>
+      <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
