@@ -1,6 +1,6 @@
 <!-- ### Hi, I'm Lorenzo O. Zimbres -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
@@ -194,4 +194,4 @@
   </p>
 </div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=footer"/>
