@@ -83,16 +83,16 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/LoriaLawrenceZ/Certificates">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/LoriaLawrenceZ/Password-Game">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/LoriaLawrenceZ/SAPOO">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
     <a href="https://github.com/LoriaLawrenceZ/Banana_Brasil">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Banana_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Banana_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>
     </p>
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
@@ -106,16 +106,16 @@
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
    <p align="left">
       <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
       </a>
       <a href="https://github.com/OZimbres/S2-POO-SA3">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
       </a>
       <a href="https://github.com/OZimbres/VTL-SA2">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
       </a>
       <a href="https://github.com/ZimbresAguilar/RPG-Translator-Observador">
-        <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
       </a>
     </p>
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
