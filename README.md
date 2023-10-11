@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+1. 🗣 Commented on [#3](https://github.com/OZimbres/To-Do-List/issues/3#issuecomment-1756615778) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-2. ❗ Opened issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+2. 🔒 Closed issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-3. ❗ Opened issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+3. 🗣 Commented on [#2](https://github.com/OZimbres/To-Do-List/issues/2#issuecomment-1756615488) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-4. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/issues/1) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+4. 🔒 Closed issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-5. 🎉 Merged PR [#14](https://github.com/OZimbres/S2-POO-SA3/pull/14) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+5. 🗣 Commented on [#1](https://github.com/OZimbres/To-Do-List/issues/1#issuecomment-1756615087) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
   <!--END_SECTION:activity-->
   
 </details>
