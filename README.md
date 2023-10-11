@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/issues/1) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+1. ❗ Opened issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-2. 🎉 Merged PR [#14](https://github.com/OZimbres/S2-POO-SA3/pull/14) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+2. ❗ Opened issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-3. 💪 Opened PR [#14](https://github.com/OZimbres/S2-POO-SA3/pull/14) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+3. ❗ Opened issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-4. 🎉 Merged PR [#13](https://github.com/OZimbres/S2-POO-SA3/pull/13) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+4. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/issues/1) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
-5. 🎉 Merged PR [#12](https://github.com/OZimbres/S2-POO-SA3/pull/12) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
+5. 🎉 Merged PR [#14](https://github.com/OZimbres/S2-POO-SA3/pull/14) in [OZimbres/S2-POO-SA3](https://github.com/OZimbres/S2-POO-SA3)
   <!--END_SECTION:activity-->
   
 </details>
