@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔓 Reopened issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+1. 💪 Opened PR [#11](https://github.com/OZimbres/To-Do-List/pull/11) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-2. 🔓 Reopened issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+2. 🔓 Reopened issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-3. 🔓 Reopened issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+3. 🔓 Reopened issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-4. 🗣 Commented on [#3](https://github.com/OZimbres/To-Do-List/issues/3#issuecomment-1756615778) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+4. 🔓 Reopened issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-5. 🔒 Closed issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+5. 🗣 Commented on [#3](https://github.com/OZimbres/To-Do-List/issues/3#issuecomment-1756615778) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
   <!--END_SECTION:activity-->
   
 </details>
