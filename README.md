@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+1. 🗣 Commented on [#1](https://github.com/RodolfoBrandaoOficial/RodolfoBrandaoOficial/pull/1#issuecomment-1763126694) in [RodolfoBrandaoOficial/RodolfoBrandaoOficial](https://github.com/RodolfoBrandaoOficial/RodolfoBrandaoOficial)
 
-2. 🔒 Closed issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+2. 💪 Opened PR [#1](https://github.com/RodolfoBrandaoOficial/RodolfoBrandaoOficial/pull/1) in [RodolfoBrandaoOficial/RodolfoBrandaoOficial](https://github.com/RodolfoBrandaoOficial/RodolfoBrandaoOficial)
 
-3. 🔒 Closed issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+3. 🔒 Closed issue [#3](https://github.com/OZimbres/To-Do-List/issues/3) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-4. 🎉 Merged PR [#11](https://github.com/OZimbres/To-Do-List/pull/11) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+4. 🔒 Closed issue [#1](https://github.com/OZimbres/To-Do-List/issues/1) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-5. 💪 Opened PR [#11](https://github.com/OZimbres/To-Do-List/pull/11) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+5. 🔒 Closed issue [#2](https://github.com/OZimbres/To-Do-List/issues/2) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
   <!--END_SECTION:activity-->
   
 </details>
