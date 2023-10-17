@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#8](https://github.com/OZimbres/To-Do-List/issues/8) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+1. ❗ Opened issue [#5](https://github.com/OZimbres/Pet-Boutique/issues/5) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-2. 🔒 Closed issue [#6](https://github.com/OZimbres/To-Do-List/issues/6) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+2. ❗ Opened issue [#4](https://github.com/OZimbres/Pet-Boutique/issues/4) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-3. 🔒 Closed issue [#5](https://github.com/OZimbres/To-Do-List/issues/5) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+3. ❗ Opened issue [#3](https://github.com/OZimbres/Pet-Boutique/issues/3) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-4. 🎉 Merged PR [#14](https://github.com/OZimbres/To-Do-List/pull/14) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+4. ❗ Opened issue [#2](https://github.com/OZimbres/Pet-Boutique/issues/2) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-5. 🔒 Closed issue [#4](https://github.com/OZimbres/To-Do-List/issues/4) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+5. ❗ Opened issue [#1](https://github.com/OZimbres/Pet-Boutique/issues/1) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
   <!--END_SECTION:activity-->
   
 </details>
