@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZ/VRSoftware/issues/1) in [LoriaLawrenceZ/VRSoftware](https://github.com/LoriaLawrenceZ/VRSoftware)
+1. 💪 Opened PR [#25](https://github.com/OZimbres/Pet-Boutique/pull/25) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-2. 🎉 Merged PR [#17](https://github.com/OZimbres/To-Do-List/pull/17) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+2. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZ/VRSoftware/issues/1) in [LoriaLawrenceZ/VRSoftware](https://github.com/LoriaLawrenceZ/VRSoftware)
 
-3. 💪 Opened PR [#17](https://github.com/OZimbres/To-Do-List/pull/17) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+3. 🎉 Merged PR [#17](https://github.com/OZimbres/To-Do-List/pull/17) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-4. 🎉 Merged PR [#16](https://github.com/OZimbres/To-Do-List/pull/16) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+4. 💪 Opened PR [#17](https://github.com/OZimbres/To-Do-List/pull/17) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
 
-5. 💪 Opened PR [#16](https://github.com/OZimbres/To-Do-List/pull/16) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
+5. 🎉 Merged PR [#16](https://github.com/OZimbres/To-Do-List/pull/16) in [OZimbres/To-Do-List](https://github.com/OZimbres/To-Do-List)
   <!--END_SECTION:activity-->
   
 </details>
