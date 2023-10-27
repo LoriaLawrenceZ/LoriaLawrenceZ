@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#30](https://github.com/OZimbres/Pet-Boutique/pull/30) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+1. ❗ Opened issue [#33](https://github.com/OZimbres/Pet-Boutique/issues/33) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-2. 🎉 Merged PR [#29](https://github.com/OZimbres/Pet-Boutique/pull/29) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+2. ❗ Opened issue [#32](https://github.com/OZimbres/Pet-Boutique/issues/32) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-3. 🗣 Commented on [#29](https://github.com/OZimbres/Pet-Boutique/pull/29#issuecomment-1775875908) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+3. ❗ Opened issue [#31](https://github.com/OZimbres/Pet-Boutique/issues/31) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-4. 🎉 Merged PR [#28](https://github.com/OZimbres/Pet-Boutique/pull/28) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+4. 🎉 Merged PR [#30](https://github.com/OZimbres/Pet-Boutique/pull/30) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-5. 💪 Opened PR [#26](https://github.com/OZimbres/Pet-Boutique/pull/26) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+5. 🎉 Merged PR [#29](https://github.com/OZimbres/Pet-Boutique/pull/29) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
   <!--END_SECTION:activity-->
   
 </details>
