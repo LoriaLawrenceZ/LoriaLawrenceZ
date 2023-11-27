@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/OZimbres/Concessionaria/issues/1) in [OZimbres/Concessionaria](https://github.com/OZimbres/Concessionaria)
+1. 💪 Opened PR [#39](https://github.com/OZimbres/Pet-Boutique/pull/39) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-2. ❗ Opened issue [#38](https://github.com/OZimbres/Pet-Boutique/issues/38) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+2. ❗ Opened issue [#1](https://github.com/OZimbres/Concessionaria/issues/1) in [OZimbres/Concessionaria](https://github.com/OZimbres/Concessionaria)
 
-3. ❗ Opened issue [#37](https://github.com/OZimbres/Pet-Boutique/issues/37) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+3. ❗ Opened issue [#38](https://github.com/OZimbres/Pet-Boutique/issues/38) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-4. ❗ Opened issue [#36](https://github.com/OZimbres/Pet-Boutique/issues/36) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+4. ❗ Opened issue [#37](https://github.com/OZimbres/Pet-Boutique/issues/37) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
 
-5. ❗ Opened issue [#35](https://github.com/OZimbres/Pet-Boutique/issues/35) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
+5. ❗ Opened issue [#36](https://github.com/OZimbres/Pet-Boutique/issues/36) in [OZimbres/Pet-Boutique](https://github.com/OZimbres/Pet-Boutique)
   <!--END_SECTION:activity-->
   
 </details>
