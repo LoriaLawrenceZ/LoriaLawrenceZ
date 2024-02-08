@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/OZimbres/MercadoASJ/pull/11) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+1. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
 
-2. 🎉 Merged PR [#10](https://github.com/OZimbres/MercadoASJ/pull/10) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+2. 💪 Opened PR [#11](https://github.com/OZimbres/MercadoASJ/pull/11) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
 
-3. 💪 Opened PR [#8](https://github.com/OZimbres/MercadoASJ/pull/8) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+3. 🎉 Merged PR [#10](https://github.com/OZimbres/MercadoASJ/pull/10) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
 
-4. 💪 Opened PR [#7](https://github.com/OZimbres/MercadoASJ/pull/7) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+4. 💪 Opened PR [#8](https://github.com/OZimbres/MercadoASJ/pull/8) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
 
-5. ❗ Opened issue [#6](https://github.com/OZimbres/MercadoASJ/issues/6) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+5. 💪 Opened PR [#7](https://github.com/OZimbres/MercadoASJ/pull/7) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
   <!--END_SECTION:activity-->
   
 </details>
