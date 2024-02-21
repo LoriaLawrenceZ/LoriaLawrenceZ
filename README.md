@@ -63,11 +63,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
+1. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Baeldung/pull/1) in [LoriaLawrenceZ/Baeldung](https://github.com/LoriaLawrenceZ/Baeldung)
 
-2. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
+2. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
-3. 🎉 Merged PR [#10](https://github.com/OZimbres/MercadoASJ/pull/10) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+3. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
 
 4. 💪 Opened PR [#8](https://github.com/OZimbres/MercadoASJ/pull/8) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
 
