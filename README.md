@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
+1. 🔒 Closed issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
 
-2. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Baeldung/pull/1) in [LoriaLawrenceZ/Baeldung](https://github.com/LoriaLawrenceZ/Baeldung)
+2. ❗ Opened issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
 
-3. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
+3. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Baeldung/pull/1) in [LoriaLawrenceZ/Baeldung](https://github.com/LoriaLawrenceZ/Baeldung)
 
-4. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
+4. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZVR/Baeldung/pull/1) in [LoriaLawrenceZVR/Baeldung](https://github.com/LoriaLawrenceZVR/Baeldung)
 
-5. 💪 Opened PR [#7](https://github.com/OZimbres/MercadoASJ/pull/7) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+5. ❗ Opened issue [#1](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR/issues/1) in [LoriaLawrenceZVR/LoriaLawrenceZVR](https://github.com/LoriaLawrenceZVR/LoriaLawrenceZVR)
   <!--END_SECTION:activity-->
   
 </details>
