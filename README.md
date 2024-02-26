@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/OZimbres/FIAP-Fase1/pull/1) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+1. 🎉 Merged PR [#2](https://github.com/OZimbres/FIAP-Fase1/pull/2) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-2. 💪 Opened PR [#1](https://github.com/OZimbres/FIAP-Fase1/pull/1) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+2. 💪 Opened PR [#2](https://github.com/OZimbres/FIAP-Fase1/pull/2) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-3. 🔒 Closed issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
+3. 🎉 Merged PR [#1](https://github.com/OZimbres/FIAP-Fase1/pull/1) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-4. ❗ Opened issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
+4. 💪 Opened PR [#1](https://github.com/OZimbres/FIAP-Fase1/pull/1) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-5. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Baeldung/pull/1) in [LoriaLawrenceZ/Baeldung](https://github.com/LoriaLawrenceZ/Baeldung)
+5. 🔒 Closed issue [#1](https://github.com/LDLSoftware/.github/issues/1) in [LDLSoftware/.github](https://github.com/LDLSoftware/.github)
   <!--END_SECTION:activity-->
   
 </details>
