@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#20](https://github.com/OZimbres/FIAP-Fase1/issues/20) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+1. ❗ Opened issue [#22](https://github.com/OZimbres/FIAP-Fase1/issues/22) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-2. ❗ Opened issue [#18](https://github.com/OZimbres/FIAP-Fase1/issues/18) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+2. ❗ Opened issue [#21](https://github.com/OZimbres/FIAP-Fase1/issues/21) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-3. ❗ Opened issue [#17](https://github.com/OZimbres/FIAP-Fase1/issues/17) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+3. ❗ Opened issue [#20](https://github.com/OZimbres/FIAP-Fase1/issues/20) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-4. 🔒 Closed issue [#8](https://github.com/OZimbres/FIAP-Fase1/issues/8) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+4. ❗ Opened issue [#18](https://github.com/OZimbres/FIAP-Fase1/issues/18) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
 
-5. ❗ Opened issue [#12](https://github.com/OZimbres/FIAP-Fase1/issues/12) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
+5. ❗ Opened issue [#17](https://github.com/OZimbres/FIAP-Fase1/issues/17) in [OZimbres/FIAP-Fase1](https://github.com/OZimbres/FIAP-Fase1)
   <!--END_SECTION:activity-->
   
 </details>
