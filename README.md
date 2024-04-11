@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/vyctoriak/loja-drones-fiap/issues/2) in [vyctoriak/loja-drones-fiap](https://github.com/vyctoriak/loja-drones-fiap)
+1. 🔒 Closed issue [#5](https://github.com/ZynkePartnership/Lopenk/issues/5) in [ZynkePartnership/Lopenk](https://github.com/ZynkePartnership/Lopenk)
 
-2. 🎉 Merged PR [#15](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/15) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+2. 🔒 Closed issue [#4](https://github.com/ZynkePartnership/Lopenk/issues/4) in [ZynkePartnership/Lopenk](https://github.com/ZynkePartnership/Lopenk)
 
-3. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1#issuecomment-1984801936) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+3. 🗣 Commented on [#11](https://github.com/OZimbres/MercadoASJ/pull/11#issuecomment-2049134977) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
 
-4. 🔓 Reopened issue [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+4. 🔒 Closed issue [#2](https://github.com/vyctoriak/loja-drones-fiap/issues/2) in [vyctoriak/loja-drones-fiap](https://github.com/vyctoriak/loja-drones-fiap)
 
-5. 🗣 Commented on [#13](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/13#issuecomment-1984799845) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+5. 🎉 Merged PR [#15](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/15) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
   <!--END_SECTION:activity-->
   
 </details>
