@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/15) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+1. 🔒 Closed issue [#2](https://github.com/vyctoriak/loja-drones-fiap/issues/2) in [vyctoriak/loja-drones-fiap](https://github.com/vyctoriak/loja-drones-fiap)
 
-2. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1#issuecomment-1984801936) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+2. 🎉 Merged PR [#15](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/15) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
 
-3. 🔓 Reopened issue [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+3. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1#issuecomment-1984801936) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
 
-4. 🗣 Commented on [#13](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/13#issuecomment-1984799845) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+4. 🔓 Reopened issue [#1](https://github.com/OZimbres/FIAP-Cap5-Grupo2/issues/1) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
 
-5. ❌ Closed PR [#13](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/13) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
+5. 🗣 Commented on [#13](https://github.com/OZimbres/FIAP-Cap5-Grupo2/pull/13#issuecomment-1984799845) in [OZimbres/FIAP-Cap5-Grupo2](https://github.com/OZimbres/FIAP-Cap5-Grupo2)
   <!--END_SECTION:activity-->
   
 </details>
