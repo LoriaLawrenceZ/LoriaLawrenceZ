@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#4](https://github.com/OZimbres/MercadoASJ/issues/4) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+1. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Fase3/issues/1#issuecomment-2093475522) in [OZimbres/FIAP-Fase3](https://github.com/OZimbres/FIAP-Fase3)
 
-2. 🔒 Closed issue [#5](https://github.com/OZimbres/MercadoASJ/issues/5) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+2. 🔒 Closed issue [#1](https://github.com/OZimbres/FIAP-Fase3/issues/1) in [OZimbres/FIAP-Fase3](https://github.com/OZimbres/FIAP-Fase3)
 
-3. 🔒 Closed issue [#6](https://github.com/OZimbres/MercadoASJ/issues/6) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+3. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Fase3/issues/1#issuecomment-2093475314) in [OZimbres/FIAP-Fase3](https://github.com/OZimbres/FIAP-Fase3)
 
-4. 🎉 Merged PR [#11](https://github.com/OZimbres/MercadoASJ/pull/11) in [OZimbres/MercadoASJ](https://github.com/OZimbres/MercadoASJ)
+4. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Fase3/issues/1#issuecomment-2093473819) in [OZimbres/FIAP-Fase3](https://github.com/OZimbres/FIAP-Fase3)
 
-5. 🔒 Closed issue [#5](https://github.com/ZynkePartnership/Lopenk/issues/5) in [ZynkePartnership/Lopenk](https://github.com/ZynkePartnership/Lopenk)
+5. 🗣 Commented on [#1](https://github.com/OZimbres/FIAP-Fase3/issues/1#issuecomment-2093473306) in [OZimbres/FIAP-Fase3](https://github.com/OZimbres/FIAP-Fase3)
   <!--END_SECTION:activity-->
   
 </details>
