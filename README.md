@@ -33,7 +33,7 @@
   ```yaml
   name: Lorenzo Oliveira Zimbres
   located_in: Limeira, São Paulo (Brazil)
-  job: Looking
+  job: Intern at VRSoftware
   education: ["Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
   company: OZimbres
   past_experiences:
