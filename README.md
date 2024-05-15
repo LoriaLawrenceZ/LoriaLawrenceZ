@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#1](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/1) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+1. ❗ Opened issue [#7](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/7) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-2. 🎉 Merged PR [#6](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/6) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+2. 🔒 Closed issue [#1](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/1) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-3. 💪 Opened PR [#6](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/6) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+3. 🎉 Merged PR [#6](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/6) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-4. 🗣 Commented on [#1](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/1#issuecomment-2106027389) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+4. 💪 Opened PR [#6](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/6) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-5. 🗣 Commented on [#285](https://github.com/hydralauncher/hydra/issues/285#issuecomment-2105904387) in [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+5. 🗣 Commented on [#1](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/1#issuecomment-2106027389) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
   <!--END_SECTION:activity-->
   
 </details>
