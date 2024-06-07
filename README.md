@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/2) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+1. 🎉 Merged PR [#3](https://github.com/OZimbres/EcoShield/pull/3) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-2. 🎉 Merged PR [#8](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/8) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+2. 💪 Opened PR [#3](https://github.com/OZimbres/EcoShield/pull/3) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-3. 💪 Opened PR [#8](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/8) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+3. 🔒 Closed issue [#2](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/2) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-4. 🔒 Closed issue [#7](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/7) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+4. 🎉 Merged PR [#8](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/8) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-5. ❗ Opened issue [#7](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/7) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+5. 💪 Opened PR [#8](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/8) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
   <!--END_SECTION:activity-->
   
 </details>
