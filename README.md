@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8](https://github.com/OZimbres/EcoShield/pull/8) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+1. 🎉 Merged PR [#8](https://github.com/OZimbres/EcoShield/pull/8) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-2. 🎉 Merged PR [#7](https://github.com/OZimbres/EcoShield/pull/7) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+2. 💪 Opened PR [#8](https://github.com/OZimbres/EcoShield/pull/8) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-3. 💪 Opened PR [#7](https://github.com/OZimbres/EcoShield/pull/7) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+3. 🎉 Merged PR [#7](https://github.com/OZimbres/EcoShield/pull/7) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-4. 🎉 Merged PR [#6](https://github.com/OZimbres/EcoShield/pull/6) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+4. 💪 Opened PR [#7](https://github.com/OZimbres/EcoShield/pull/7) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-5. 💪 Opened PR [#6](https://github.com/OZimbres/EcoShield/pull/6) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+5. 🎉 Merged PR [#6](https://github.com/OZimbres/EcoShield/pull/6) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
   <!--END_SECTION:activity-->
   
 </details>
