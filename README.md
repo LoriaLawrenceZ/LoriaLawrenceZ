@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/OZimbres/EcoShield/pull/4) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+1. 🎉 Merged PR [#6](https://github.com/OZimbres/EcoShield/pull/6) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-2. 💪 Opened PR [#4](https://github.com/OZimbres/EcoShield/pull/4) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+2. 💪 Opened PR [#6](https://github.com/OZimbres/EcoShield/pull/6) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-3. 🎉 Merged PR [#3](https://github.com/OZimbres/EcoShield/pull/3) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+3. 🎉 Merged PR [#4](https://github.com/OZimbres/EcoShield/pull/4) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-4. 💪 Opened PR [#3](https://github.com/OZimbres/EcoShield/pull/3) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
+4. 💪 Opened PR [#4](https://github.com/OZimbres/EcoShield/pull/4) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
 
-5. 🔒 Closed issue [#2](https://github.com/LoriaLawrenceZ/Alura-Java-IA/issues/2) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+5. 🎉 Merged PR [#3](https://github.com/OZimbres/EcoShield/pull/3) in [OZimbres/EcoShield](https://github.com/OZimbres/EcoShield)
   <!--END_SECTION:activity-->
   
 </details>
