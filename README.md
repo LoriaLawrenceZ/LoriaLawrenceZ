@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+systems+development+at+SENAI;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+FIAP;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
