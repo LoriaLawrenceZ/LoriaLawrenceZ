@@ -34,17 +34,16 @@
   name: Lorenzo Oliveira Zimbres
   located_in: Limeira, São Paulo (Brazil)
   job: Intern at VRSoftware
-  education: ["Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
+  education: ["Software Engineering": "FIAP", "Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
   company: OZimbres
   past_experiences:
-    - ["Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
+    - ["Java Developer", "Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
 
   fields_of_interests: ["Machine Learning", "Deep Learning", "Neural Networks", "Cognitive Computing",
                         "Natural Language Processing", "Data Analysis", "Web Development", "Software Development"]
-  currently_learning: ["POO", "Software GUI", "Client-Side Programming", "Server-Side Programming",
+  currently_learning: ["Blockchain", "Software GUI", "Client-Side Programming", "Server-Side Programming",
                         "Frameworks", "Database Managment"]
   will_learn: ["AI"]
-  hobbies: ["Football", "Casual Gaming", "Manga", "IoT", "Robotics"]
   ```
 
 <details open>
