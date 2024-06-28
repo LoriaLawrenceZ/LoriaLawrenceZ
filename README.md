@@ -37,7 +37,8 @@
   education: ["Software Engineering": "FIAP", "Internet Computing": "SENAC", "System Developing": "SENAC", "System Developing": "SENAI"]
   company: OZimbres
   past_experiences:
-    - ["Java Developer", "Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
+    - ["Computer Operator", "Hardware Support", "Unigrês Cerâmica", "Brazil", "2023"]
+    - ["Developer", "Java Developer", "VRSoftware", "Brazil", "2024", "ogoing"]
 
   fields_of_interests: ["Machine Learning", "Deep Learning", "Neural Networks", "Cognitive Computing",
                         "Natural Language Processing", "Data Analysis", "Web Development", "Software Development"]
