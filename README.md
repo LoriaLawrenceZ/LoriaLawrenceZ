@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2281](https://github.com/benjaminsampica/benjaminsampica/issues/2281) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+1. 🎉 Merged PR [#9](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/9) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-2. ❗ Opened issue [#3](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/issues/3) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+2. 💪 Opened PR [#9](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/9) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-3. ❗ Opened issue [#3](https://github.com/OZimbres/.github/issues/3) in [OZimbres/.github](https://github.com/OZimbres/.github)
+3. ❗ Opened issue [#2281](https://github.com/benjaminsampica/benjaminsampica/issues/2281) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 
-4. ❗ Opened issue [#2](https://github.com/OZimbres/.github/issues/2) in [OZimbres/.github](https://github.com/OZimbres/.github)
+4. ❗ Opened issue [#3](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/issues/3) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
-5. ❗ Opened issue [#1](https://github.com/OZimbres/.github/issues/1) in [OZimbres/.github](https://github.com/OZimbres/.github)
+5. ❗ Opened issue [#3](https://github.com/OZimbres/.github/issues/3) in [OZimbres/.github](https://github.com/OZimbres/.github)
   <!--END_SECTION:activity-->
   
 </details>
