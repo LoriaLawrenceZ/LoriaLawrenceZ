@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/12) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+1. 🗣 Commented on [#1](https://github.com/OZimbres/Mercury/pull/1#issuecomment-2298885402) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-2. 💪 Opened PR [#12](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/12) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+2. 🎉 Merged PR [#12](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/12) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-3. 🎉 Merged PR [#11](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/11) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+3. 💪 Opened PR [#12](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/12) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-4. 💪 Opened PR [#11](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/11) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+4. 🎉 Merged PR [#11](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/11) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
 
-5. 🎉 Merged PR [#10](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/10) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
+5. 💪 Opened PR [#11](https://github.com/LoriaLawrenceZ/Alura-Java-IA/pull/11) in [LoriaLawrenceZ/Alura-Java-IA](https://github.com/LoriaLawrenceZ/Alura-Java-IA)
   <!--END_SECTION:activity-->
   
 </details>
