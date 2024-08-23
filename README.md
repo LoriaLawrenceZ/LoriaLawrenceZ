@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#5](https://github.com/OZimbres/Mercury/issues/5) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+1. 🗣 Commented on [#9](https://github.com/OZimbres/Mercury/pull/9#issuecomment-2306249456) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-2. 🎉 Merged PR [#6](https://github.com/OZimbres/Mercury/pull/6) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+2. 💪 Opened PR [#9](https://github.com/OZimbres/Mercury/pull/9) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-3. 💪 Opened PR [#6](https://github.com/OZimbres/Mercury/pull/6) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+3. 🔒 Closed issue [#5](https://github.com/OZimbres/Mercury/issues/5) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-4. ❗ Opened issue [#5](https://github.com/OZimbres/Mercury/issues/5) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+4. 🎉 Merged PR [#6](https://github.com/OZimbres/Mercury/pull/6) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-5. 🗣 Commented on [#1](https://github.com/OZimbres/Mercury/pull/1#issuecomment-2298885402) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+5. 💪 Opened PR [#6](https://github.com/OZimbres/Mercury/pull/6) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
   <!--END_SECTION:activity-->
   
 </details>
