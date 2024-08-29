@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#28](https://github.com/OZimbres/Mercury/pull/28) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+1. 🎉 Merged PR [#31](https://github.com/OZimbres/Mercury/pull/31) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-2. 💪 Opened PR [#28](https://github.com/OZimbres/Mercury/pull/28) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+2. 💪 Opened PR [#31](https://github.com/OZimbres/Mercury/pull/31) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-3. 🎉 Merged PR [#27](https://github.com/OZimbres/Mercury/pull/27) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+3. 🎉 Merged PR [#30](https://github.com/OZimbres/Mercury/pull/30) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-4. 💪 Opened PR [#27](https://github.com/OZimbres/Mercury/pull/27) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+4. 💪 Opened PR [#30](https://github.com/OZimbres/Mercury/pull/30) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
 
-5. 🎉 Merged PR [#26](https://github.com/OZimbres/Mercury/pull/26) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+5. 🎉 Merged PR [#29](https://github.com/OZimbres/Mercury/pull/29) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
   <!--END_SECTION:activity-->
   
 </details>
