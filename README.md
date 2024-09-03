@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/katorlys/rweb.site/pull/28#issuecomment-2322891747) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
+1. 🎉 Merged PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
 
-2. 🗣 Commented on [#28](https://github.com/katorlys/rweb.site/pull/28#issuecomment-2322888253) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
+2. 💪 Opened PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
 
-3. 💪 Opened PR [#28](https://github.com/katorlys/rweb.site/pull/28) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
+3. 🗣 Commented on [#28](https://github.com/katorlys/rweb.site/pull/28#issuecomment-2322891747) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
 
-4. 🎉 Merged PR [#52](https://github.com/OZimbres/Mercury/pull/52) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+4. 🗣 Commented on [#28](https://github.com/katorlys/rweb.site/pull/28#issuecomment-2322888253) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
 
-5. 🎉 Merged PR [#51](https://github.com/OZimbres/Mercury/pull/51) in [OZimbres/Mercury](https://github.com/OZimbres/Mercury)
+5. 💪 Opened PR [#28](https://github.com/katorlys/rweb.site/pull/28) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
   <!--END_SECTION:activity-->
   
 </details>
