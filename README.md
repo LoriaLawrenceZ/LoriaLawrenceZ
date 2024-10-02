@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#65](https://github.com/TeamXFive/Mercury/issues/65#issuecomment-2360833378) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+1. 🎉 Merged PR [#10](https://github.com/TeamXFive/Florice/pull/10) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-2. 🗣 Commented on [#64](https://github.com/TeamXFive/Mercury/pull/64#issuecomment-2358321022) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+2. 🗣 Commented on [#65](https://github.com/TeamXFive/Mercury/issues/65#issuecomment-2360833378) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
 
-3. 🎉 Merged PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+3. 🗣 Commented on [#64](https://github.com/TeamXFive/Mercury/pull/64#issuecomment-2358321022) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
 
-4. 💪 Opened PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+4. 🎉 Merged PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
 
-5. 🗣 Commented on [#28](https://github.com/katorlys/rweb.site/pull/28#issuecomment-2322891747) in [katorlys/rweb.site](https://github.com/katorlys/rweb.site)
+5. 💪 Opened PR [#55](https://github.com/TeamXFive/Mercury/pull/55) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
   <!--END_SECTION:activity-->
   
 </details>
