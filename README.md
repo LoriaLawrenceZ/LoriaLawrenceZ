@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391769376) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+1. 🎉 Merged PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-2. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391202185) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+2. 💪 Opened PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-3. 🎉 Merged PR [#10](https://github.com/TeamXFive/Florice/pull/10) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+3. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391769376) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-4. 🗣 Commented on [#65](https://github.com/TeamXFive/Mercury/issues/65#issuecomment-2360833378) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+4. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391202185) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-5. 🗣 Commented on [#64](https://github.com/TeamXFive/Mercury/pull/64#issuecomment-2358321022) in [TeamXFive/Mercury](https://github.com/TeamXFive/Mercury)
+5. 🎉 Merged PR [#10](https://github.com/TeamXFive/Florice/pull/10) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
   <!--END_SECTION:activity-->
   
 </details>
