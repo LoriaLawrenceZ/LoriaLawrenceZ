@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+1. ❗ Opened issue [#81](https://github.com/TeamXFive/DEX-frontend/issues/81) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-2. 💪 Opened PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+2. ❗ Opened issue [#80](https://github.com/TeamXFive/DEX-frontend/issues/80) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-3. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391769376) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+3. 🎉 Merged PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-4. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391202185) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+4. 💪 Opened PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
 
-5. 🎉 Merged PR [#10](https://github.com/TeamXFive/Florice/pull/10) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+5. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391769376) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
   <!--END_SECTION:activity-->
   
 </details>
