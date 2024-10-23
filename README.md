@@ -63,13 +63,13 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#81](https://github.com/TeamXFive/DEX-frontend/issues/81) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+1. 🎉 Merged PR [#83](https://github.com/TeamXFive/DEX-frontend/pull/83) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-2. ❗ Opened issue [#80](https://github.com/TeamXFive/DEX-frontend/issues/80) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+2. 💪 Opened PR [#83](https://github.com/TeamXFive/DEX-frontend/pull/83) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-3. 🎉 Merged PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+3. ❗ Opened issue [#81](https://github.com/TeamXFive/DEX-frontend/issues/81) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-4. 💪 Opened PR [#20](https://github.com/TeamXFive/Florice/pull/20) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
+4. ❗ Opened issue [#80](https://github.com/TeamXFive/DEX-frontend/issues/80) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
 5. 🗣 Commented on [#11](https://github.com/TeamXFive/Florice/pull/11#issuecomment-2391769376) in [TeamXFive/Florice](https://github.com/TeamXFive/Florice)
   <!--END_SECTION:activity-->
