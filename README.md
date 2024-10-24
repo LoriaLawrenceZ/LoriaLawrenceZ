@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#90](https://github.com/TeamXFive/DEX-frontend/pull/90) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+1. 🎉 Merged PR [#98](https://github.com/TeamXFive/DEX-frontend/pull/98) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-2. 💪 Opened PR [#90](https://github.com/TeamXFive/DEX-frontend/pull/90) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+2. 💪 Opened PR [#98](https://github.com/TeamXFive/DEX-frontend/pull/98) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-3. 🎉 Merged PR [#89](https://github.com/TeamXFive/DEX-frontend/pull/89) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+3. 🎉 Merged PR [#97](https://github.com/TeamXFive/DEX-frontend/pull/97) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-4. 🎉 Merged PR [#88](https://github.com/TeamXFive/DEX-frontend/pull/88) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+4. 💪 Opened PR [#97](https://github.com/TeamXFive/DEX-frontend/pull/97) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
 
-5. 🎉 Merged PR [#87](https://github.com/TeamXFive/DEX-frontend/pull/87) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
+5. 🎉 Merged PR [#96](https://github.com/TeamXFive/DEX-frontend/pull/96) in [TeamXFive/DEX-frontend](https://github.com/TeamXFive/DEX-frontend)
   <!--END_SECTION:activity-->
   
 </details>
