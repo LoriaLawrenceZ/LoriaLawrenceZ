@@ -1,27 +1,27 @@
 <!-- ### Hi, I'm Lorenzo O. Zimbres also known as LoriaLawrenceZ -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f222e&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==eeeeff&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==c9d1d9&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eeeeff&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+FIAP;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+FIAP;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
-      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-1f222e?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=1f222e&style=for-the-badge&labelColor=gray&logo=star">
+      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=0d1117&style=for-the-badge&labelColor=gray&logo=star">
     </a>
     <a href="https://github.com/LoriaLawrenceZ?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=1f222e&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=0d1117&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=1f222e&labelColor=1f222e&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=0d1117&labelColor=0d1117&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=1f222e&icon_color=1f222e&text_color=eeeeff&bg_color=1f222e" alt="Lorenzo O. Zimbres github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=1f222e&text_color=eeeeff&bg_color=1f222e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoriaLawrenceZ&show_icons=true&count_private=true&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=c9d1d9&bg_color=0d1117" alt="Lorenzo O. Zimbres github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoriaLawrenceZ&layout=compact&hide_border=true&title_color=0d1117&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -54,8 +54,8 @@
   <p align="center">
     <!--Olhar depois o svg do mano, dá pra fazer meu 3d-->
     <a href="https://github.com/LoriaLawrenceZ">
-      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
-      <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-night-rainbow.svg" width = "98%">
+      <img title="My Activity" src="src/images/profile-3d/profile-season-animate.svg" width = "98%"/>
     </a>
   </p>  
 
@@ -83,20 +83,20 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/LoriaLawrenceZ/Certificates">
-      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Certificates&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
     </a> 
     <a href="https://github.com/LoriaLawrenceZ/Password-Game">
-      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Password-Game&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
     </a> 
     <a href="https://github.com/LoriaLawrenceZ/SAPOO">
-      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=SAPOO&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
     </a>
     <a href="https://github.com/LoriaLawrenceZ/Banana_Brasil">
-      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Banana_Brasil&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+      <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=LoriaLawrenceZ&repo=Banana_Brasil&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
     </a>
     </p>
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1f222e?style=for-the-badge&logoColor=white&logo=repo"/>
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </details>
 
@@ -106,19 +106,19 @@
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
    <p align="left">
       <a href="https://github.com/ZimbresAguilar/Ozza-Tech">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=Ozza-Tech&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
       </a>
       <a href="https://github.com/OZimbres/S2-POO-SA3">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=S2-POO-SA3&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
       </a>
       <a href="https://github.com/OZimbres/VTL-SA2">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
       </a>
       <a href="https://github.com/ZimbresAguilar/RPG-Translator-Observador">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=1f222e&title_color=ffc837&hide_border=true&icon_color=ffc837" />
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=0d1117&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
       </a>
     </p>
-    <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1f222e?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>
 
 
@@ -194,4 +194,4 @@
   </p>
 </div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f222e&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
