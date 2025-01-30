@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/6) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+1. ❌ Closed PR [#1](https://github.com/BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e/pull/1) in [BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e](https://github.com/BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e)
 
-2. 💪 Opened PR [#6](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/6) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+2. 🎉 Merged PR [#2](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/2) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
 
-3. 🎉 Merged PR [#5](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/5) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+3. 💪 Opened PR [#2](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/2) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
 
-4. 💪 Opened PR [#5](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/5) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+4. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/1) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
 
-5. ❌ Closed PR [#4](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/4) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+5. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/1) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
   <!--END_SECTION:activity-->
   
 </details>
