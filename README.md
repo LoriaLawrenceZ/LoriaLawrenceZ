@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/OZimbres/issue-template/issues/2) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+1. ❗ Opened issue [#3](https://github.com/OZimbres/issue-template/issues/3) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-2. ❗ Opened issue [#1](https://github.com/OZimbres/issue-template/issues/1) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+2. ❗ Opened issue [#2](https://github.com/OZimbres/issue-template/issues/2) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-3. ❗ Opened issue [#11](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/11) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
+3. ❗ Opened issue [#1](https://github.com/OZimbres/issue-template/issues/1) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-4. ❗ Opened issue [#10](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/10) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
+4. ❗ Opened issue [#11](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/11) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
 
-5. ❗ Opened issue [#9](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/9) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
+5. ❗ Opened issue [#10](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/10) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
   <!--END_SECTION:activity-->
   
 </details>
