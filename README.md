@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e/pull/1) in [BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e](https://github.com/BrunoGFonseca/Gerador-de-chave-de-acesso-NF-e)
+1. ❗ Opened issue [#7](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/7) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
 
-2. 🎉 Merged PR [#2](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/2) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
+2. ❗ Opened issue [#6](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/6) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
 
-3. 💪 Opened PR [#2](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/2) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
+3. ❗ Opened issue [#5](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/5) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
 
-4. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/1) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
+4. ❗ Opened issue [#4](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/4) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
 
-5. 💪 Opened PR [#1](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e/pull/1) in [LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e](https://github.com/LoriaLawrenceZ/Gerador-de-chave-de-acesso-NF-e)
+5. ❗ Opened issue [#3](https://github.com/LoriaLawrenceZ/issue-templates-repo/issues/3) in [LoriaLawrenceZ/issue-templates-repo](https://github.com/LoriaLawrenceZ/issue-templates-repo)
   <!--END_SECTION:activity-->
   
 </details>
