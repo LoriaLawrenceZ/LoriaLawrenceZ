@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7](https://github.com/OZimbres/issue-template/issues/7) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+1. ❗ Opened issue [#8](https://github.com/OZimbres/issue-template/issues/8) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-2. ❗ Opened issue [#6](https://github.com/OZimbres/issue-template/issues/6) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+2. ❗ Opened issue [#7](https://github.com/OZimbres/issue-template/issues/7) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-3. ❗ Opened issue [#5](https://github.com/OZimbres/issue-template/issues/5) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+3. ❗ Opened issue [#6](https://github.com/OZimbres/issue-template/issues/6) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-4. ❗ Opened issue [#4](https://github.com/OZimbres/issue-template/issues/4) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+4. ❗ Opened issue [#5](https://github.com/OZimbres/issue-template/issues/5) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
 
-5. ❗ Opened issue [#3](https://github.com/OZimbres/issue-template/issues/3) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
+5. ❗ Opened issue [#4](https://github.com/OZimbres/issue-template/issues/4) in [OZimbres/issue-template](https://github.com/OZimbres/issue-template)
   <!--END_SECTION:activity-->
   
 </details>
