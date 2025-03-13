@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/3) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
+1. ❌ Closed PR [#4](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/4) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
 
-2. ❌ Closed PR [#2](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/2) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
+2. 💪 Opened PR [#4](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/4) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
 
-3. 💪 Opened PR [#3](https://github.com/rafael-brito/VRFiscalDashboard/pull/3) in [rafael-brito/VRFiscalDashboard](https://github.com/rafael-brito/VRFiscalDashboard)
+3. 💪 Opened PR [#3](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/3) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
 
-4. 💪 Opened PR [#2](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/2) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
+4. ❌ Closed PR [#2](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/2) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
 
-5. 🎉 Merged PR [#1](https://github.com/LoriaLawrenceZ/VRFiscalDashboard/pull/1) in [LoriaLawrenceZ/VRFiscalDashboard](https://github.com/LoriaLawrenceZ/VRFiscalDashboard)
+5. 💪 Opened PR [#3](https://github.com/rafael-brito/VRFiscalDashboard/pull/3) in [rafael-brito/VRFiscalDashboard](https://github.com/rafael-brito/VRFiscalDashboard)
   <!--END_SECTION:activity-->
   
 </details>
