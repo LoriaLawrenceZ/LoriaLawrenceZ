@@ -63,7 +63,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/LoriaLawrenceZ/clone-repos/pull/11) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
+1. 💪 Opened PR [#1](https://github.com/TeamXFive/acolhe/pull/1) in [TeamXFive/acolhe](https://github.com/TeamXFive/acolhe)
 
 2. 💪 Opened PR [#11](https://github.com/LoriaLawrenceZ/clone-repos/pull/11) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
 
