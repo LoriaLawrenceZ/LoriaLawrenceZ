@@ -10,9 +10,10 @@
     "growingAnimation": true,
     "contribColors": [
       "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
+      "#1f6feb",
+      "#6f42c1",
+      "#d73a49",
+      "#f85149"
     ]
   },
   {
@@ -25,28 +26,28 @@
     "radarColor": "#58a6ff",
     "growingAnimation": true,
     "contribColors1": [
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
+      "#1e3a8a",
+      "#3b82f6",
+      "#60a5fa",
+      "#93c5fd"
     ],
     "contribColors2": [
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
+      "#166534",
+      "#16a34a",
+      "#4ade80",
+      "#86efac"
     ],
     "contribColors3": [
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
+      "#dc2626",
+      "#f97316",
+      "#fbbf24",
+      "#fde047"
     ],
     "contribColors4": [
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353"
+      "#7c3aed",
+      "#a855f7",
+      "#c084fc",
+      "#ddd6fe"
     ]
   }
 ]
