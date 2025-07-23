@@ -3,20 +3,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=80&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==c9d1d9&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=false&width=500&lines=Lorenzo+Oliveira+Zimbres" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+FIAP;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+LoriaLawrenceZ;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Software+Engineering+at+FIAP;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
-      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=0d1117&style=for-the-badge&labelColor=gray&logo=star">
+      <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-1e3a8a?style=for-the-badge&logoColor=white&logo=repo&gradient=45deg">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LoriaLawrenceZ?color=3b82f6&style=for-the-badge&labelColor=1e3a8a&logo=star">
     </a>
     <a href="https://github.com/LoriaLawrenceZ?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=0d1117&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LoriaLawrenceZ?color=6f42c1&labelColor=3b82f6&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=0d1117&labelColor=0d1117&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
+    <img alt="view" title="Github View" src="https://komarev.com/ghpvc/?username=LoriaLawrenceZ&color=58a6ff&labelColor=1e3a8a&style=for-the-badge&logo=eye&label=visitor&logoColor=white"/></a>
 </p>
 
 <div align="center">
@@ -96,7 +96,7 @@
     </a>
     </p>
     <a href="https://github.com/LoriaLawrenceZ?tab=repositories">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/>
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1e3a8a?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </details>
 
@@ -118,7 +118,7 @@
         <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=ZimbresAguilar&repo=RPG-Translator-Observador&theme=react&bg_color=30,0d1117,1e293b&title_color=58a6ff&hide_border=true&icon_color=58a6ff" />
       </a>
     </p>
-    <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-0d1117?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/LoriaLawrenceZ?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1e3a8a?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </details>
 
 
@@ -131,13 +131,13 @@
 
   <p>
       <a href="https://www.java.com/"><img alt="Java" src="https://staging.shields.io/badge/JAVA-007396?logo=javalogo&color=E95420&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-6f42c1.svg?logo=cs2&logoColor=white"></a>
       <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>  
       <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-3b82f6.svg?logo=database&logoColor=white"></a>
       <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   </p>
