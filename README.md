@@ -63,9 +63,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/TeamXFive/acolhe/pull/1) in [TeamXFive/acolhe](https://github.com/TeamXFive/acolhe)
+1. 🎉 Merged PR [#7](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/7) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
-2. 💪 Opened PR [#11](https://github.com/LoriaLawrenceZ/clone-repos/pull/11) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
+2. ❌ Closed PR [#8](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/8) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
 3. 🎉 Merged PR [#10](https://github.com/LoriaLawrenceZ/clone-repos/pull/10) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
 
