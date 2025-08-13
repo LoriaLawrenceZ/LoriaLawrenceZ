@@ -63,11 +63,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/7) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+1. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
 
-2. ❌ Closed PR [#8](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/8) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+2. 🎉 Merged PR [#7](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/7) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
-3. 🎉 Merged PR [#10](https://github.com/LoriaLawrenceZ/clone-repos/pull/10) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
+3. ❌ Closed PR [#8](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/8) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
 4. 💪 Opened PR [#10](https://github.com/LoriaLawrenceZ/clone-repos/pull/10) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
 
