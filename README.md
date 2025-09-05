@@ -63,9 +63,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
+1. 🗣 Commented on [#1](https://github.com/OZimbres/VREstranho/pull/1#issuecomment-3258301641) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
 
-2. 🎉 Merged PR [#7](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/7) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+2. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
 
 3. ❌ Closed PR [#8](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/8) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
 
