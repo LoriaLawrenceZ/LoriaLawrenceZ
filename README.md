@@ -63,13 +63,13 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/OZimbres/VREstranho/pull/1) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+1. 🎉 Merged PR [#2](https://github.com/OZimbres/VREstranho/pull/2) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
 
-2. 🗣 Commented on [#1](https://github.com/OZimbres/VREstranho/pull/1#issuecomment-3258301641) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+2. 🎉 Merged PR [#1](https://github.com/OZimbres/VREstranho/pull/1) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
 
-3. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
+3. 🗣 Commented on [#1](https://github.com/OZimbres/VREstranho/pull/1#issuecomment-3258301641) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
 
-4. 💪 Opened PR [#10](https://github.com/LoriaLawrenceZ/clone-repos/pull/10) in [LoriaLawrenceZ/clone-repos](https://github.com/LoriaLawrenceZ/clone-repos)
+4. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
 
 5. 🗣 Commented on [#2](https://github.com/rafael-brito/VRFiscalDashboard/pull/2#issuecomment-2734344839) in [rafael-brito/VRFiscalDashboard](https://github.com/rafael-brito/VRFiscalDashboard)
   <!--END_SECTION:activity-->
