@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LoriaLawrenceZ</title>
+    
+    <!-- Start Single Page Apps for GitHub Pages -->
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // MIT License
+      // https://github.com/rafgraph/spa-github-pages
+      // This script checks to see if a redirect is present in the query string,
+      // converts it back into the correct url and adds it to the
+      // browser's history using window.history.replaceState(...),
+      // which won't cause the browser to attempt to load the new url.
+      // When the single page app is loaded further down in this file,
+      // the correct url will be waiting in the browser's history for
+      // the single page app to route accordingly.
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+    <!-- End Single Page Apps for GitHub Pages -->
+    
+  </head>
+  <body>
+    <div id="app">
+      <h1>LoriaLawrenceZ</h1>
+      <p>Bem-vindo! Esta é uma aplicação de página única (SPA).</p>
+      <p>O roteamento agora funciona corretamente mesmo com F5 ou links diretos.</p>
+      
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/produtos">Produtos</a></li>
+          <li><a href="/sobre">Sobre</a></li>
+        </ul>
+      </nav>
+      
+      <div id="content">
+        <p>Carregando...</p>
+      </div>
+    </div>
+    
+    <script>
+      // Simple SPA routing example
+      function router() {
+        const path = window.location.pathname;
+        const content = document.getElementById('content');
+        
+        // Remove the repo name from the path if present
+        const cleanPath = path.replace('/LoriaLawrenceZ', '');
+        
+        switch(cleanPath) {
+          case '/':
+          case '/index.html':
+            content.innerHTML = '<h2>Página Inicial</h2><p>Você está na home.</p>';
+            break;
+          case '/produtos':
+            content.innerHTML = '<h2>Produtos</h2><p>Lista de produtos aqui.</p>';
+            break;
+          case '/sobre':
+            content.innerHTML = '<h2>Sobre</h2><p>Informações sobre o site.</p>';
+            break;
+          default:
+            content.innerHTML = '<h2>Página não encontrada</h2><p>O caminho "' + cleanPath + '" não existe.</p>';
+        }
+      }
+      
+      // Handle navigation without page reload
+      document.addEventListener('click', function(e) {
+        if (e.target.tagName === 'A' && e.target.href.startsWith(window.location.origin)) {
+          e.preventDefault();
+          window.history.pushState(null, null, e.target.href);
+          router();
+        }
+      });
+      
+      // Handle browser back/forward buttons
+      window.addEventListener('popstate', router);
+      
+      // Initial routing
+      router();
+    </script>
+  </body>
+</html>
