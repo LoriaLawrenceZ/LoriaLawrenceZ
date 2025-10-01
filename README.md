@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/OZimbres/VREstranho/pull/3) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+1. 🗣 Commented on [#3](https://github.com/OZimbres/VZDolci/pull/3#issuecomment-3353639563) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-2. 🎉 Merged PR [#2](https://github.com/OZimbres/VREstranho/pull/2) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+2. 🎉 Merged PR [#2](https://github.com/OZimbres/VZDolci/pull/2) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-3. 🎉 Merged PR [#1](https://github.com/OZimbres/VREstranho/pull/1) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+3. 🗣 Commented on [#2](https://github.com/OZimbres/VZDolci/pull/2#issuecomment-3353539153) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-4. 🗣 Commented on [#1](https://github.com/OZimbres/VREstranho/pull/1#issuecomment-3258301641) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
+4. 🎉 Merged PR [#3](https://github.com/OZimbres/VREstranho/pull/3) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
 
-5. 🎉 Merged PR [#2](https://github.com/NullPointersFiscal/.github/pull/2) in [NullPointersFiscal/.github](https://github.com/NullPointersFiscal/.github)
+5. 🎉 Merged PR [#2](https://github.com/OZimbres/VREstranho/pull/2) in [OZimbres/VREstranho](https://github.com/OZimbres/VREstranho)
   <!--END_SECTION:activity-->
   
 </details>
