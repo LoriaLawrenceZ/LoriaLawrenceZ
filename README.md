@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/OZimbres/VZDolci/pull/7#issuecomment-3357122114) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+1. 🎉 Merged PR [#7](https://github.com/OZimbres/VZDolci/pull/7) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-2. 🎉 Merged PR [#5](https://github.com/OZimbres/VZDolci/pull/5) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+2. 🗣 Commented on [#7](https://github.com/OZimbres/VZDolci/pull/7#issuecomment-3357122114) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-3. 🗣 Commented on [#6](https://github.com/OZimbres/VZDolci/pull/6#issuecomment-3357015163) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+3. 🎉 Merged PR [#5](https://github.com/OZimbres/VZDolci/pull/5) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-4. ❌ Closed PR [#6](https://github.com/OZimbres/VZDolci/pull/6) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+4. 🗣 Commented on [#6](https://github.com/OZimbres/VZDolci/pull/6#issuecomment-3357015163) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-5. 🎉 Merged PR [#4](https://github.com/OZimbres/VZDolci/pull/4) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+5. ❌ Closed PR [#6](https://github.com/OZimbres/VZDolci/pull/6) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
   <!--END_SECTION:activity-->
   
 </details>
