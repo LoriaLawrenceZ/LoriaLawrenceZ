@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/OZimbres/VZDolci/pull/4) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+1. 🎉 Merged PR [#5](https://github.com/OZimbres/VZDolci/pull/5) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-2. 🎉 Merged PR [#9](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/9) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+2. 🗣 Commented on [#6](https://github.com/OZimbres/VZDolci/pull/6#issuecomment-3357015163) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-3. 🗣 Commented on [#9](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/9#issuecomment-3356072098) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+3. ❌ Closed PR [#6](https://github.com/OZimbres/VZDolci/pull/6) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-4. 🗣 Commented on [#4](https://github.com/OZimbres/VZDolci/pull/4#issuecomment-3356061552) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
+4. 🎉 Merged PR [#4](https://github.com/OZimbres/VZDolci/pull/4) in [OZimbres/VZDolci](https://github.com/OZimbres/VZDolci)
 
-5. 🗣 Commented on [#9](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/9#issuecomment-3356010022) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
+5. 🎉 Merged PR [#9](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ/pull/9) in [LoriaLawrenceZ/LoriaLawrenceZ](https://github.com/LoriaLawrenceZ/LoriaLawrenceZ)
   <!--END_SECTION:activity-->
   
 </details>
