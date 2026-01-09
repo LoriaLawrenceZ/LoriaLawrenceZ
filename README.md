@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#39](https://github.com/OZimbres/VZDolci-FrontEnd/pull/39) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+1. 🗣 Commented on [#41](https://github.com/OZimbres/VZDolci-FrontEnd/pull/41#issuecomment-3726780722) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
 
-2. 🗣 Commented on [#39](https://github.com/OZimbres/VZDolci-FrontEnd/pull/39#issuecomment-3678916884) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+2. 🗣 Commented on [#41](https://github.com/OZimbres/VZDolci-FrontEnd/pull/41#issuecomment-3726752228) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
 
-3. 🗣 Commented on [#38](https://github.com/OZimbres/VZDolci-FrontEnd/pull/38#issuecomment-3678827747) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+3. ❌ Closed PR [#39](https://github.com/OZimbres/VZDolci-FrontEnd/pull/39) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
 
-4. 🗣 Commented on [#37](https://github.com/OZimbres/VZDolci-FrontEnd/pull/37#issuecomment-3678121617) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+4. 🗣 Commented on [#39](https://github.com/OZimbres/VZDolci-FrontEnd/pull/39#issuecomment-3678916884) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
 
-5. 🗣 Commented on [#36](https://github.com/OZimbres/VZDolci-FrontEnd/pull/36#issuecomment-3678097919) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+5. 🗣 Commented on [#38](https://github.com/OZimbres/VZDolci-FrontEnd/pull/38#issuecomment-3678827747) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
   <!--END_SECTION:activity-->
   
 </details>
