@@ -63,9 +63,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/OZimbres/Organiza/pull/1) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
+1. 🗣 Commented on [#3](https://github.com/OZimbres/Organiza/pull/3#issuecomment-4051110362) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
 
-2. ❌ Closed PR [#59](https://github.com/OZimbres/VZDolci-FrontEnd/pull/59) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+2. ❌ Closed PR [#1](https://github.com/OZimbres/Organiza/pull/1) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
 
 3. 🗣 Commented on [#57](https://github.com/OZimbres/VZDolci-FrontEnd/pull/57#issuecomment-3765510521) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
 
