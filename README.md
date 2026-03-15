@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/OZimbres/figma-ai-OMS/pull/1) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+1. 🚀 Published release [restaurant-oms installer (jpackage)](https://github.com/OZimbres/figma-ai-OMS/releases/tag/installer-20260315) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-2. 🗣 Commented on [#4](https://github.com/OZimbres/Organiza/pull/4#issuecomment-4051215717) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
+2. ❌ Closed PR [#1](https://github.com/OZimbres/figma-ai-OMS/pull/1) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-3. 🗣 Commented on [#3](https://github.com/OZimbres/Organiza/pull/3#issuecomment-4051110362) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
+3. 🗣 Commented on [#4](https://github.com/OZimbres/Organiza/pull/4#issuecomment-4051215717) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
 
-4. ❌ Closed PR [#1](https://github.com/OZimbres/Organiza/pull/1) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
+4. 🗣 Commented on [#3](https://github.com/OZimbres/Organiza/pull/3#issuecomment-4051110362) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
 
-5. 🗣 Commented on [#50](https://github.com/OZimbres/VZDolci-FrontEnd/pull/50#issuecomment-3757113391) in [OZimbres/VZDolci-FrontEnd](https://github.com/OZimbres/VZDolci-FrontEnd)
+5. ❌ Closed PR [#1](https://github.com/OZimbres/Organiza/pull/1) in [OZimbres/Organiza](https://github.com/OZimbres/Organiza)
   <!--END_SECTION:activity-->
   
 </details>
