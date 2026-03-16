@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+1. 💪 Opened PR [#16](https://github.com/OZimbres/figma-ai-OMS/pull/16) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-2. 💪 Opened PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+2. ℹ️ Assigned PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-3. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+3. 💪 Opened PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
 4. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-5. ℹ️ Assigned issue [#7](https://github.com/OZimbres/figma-ai-OMS/issues/7) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+5. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
   <!--END_SECTION:activity-->
   
 </details>
