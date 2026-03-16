@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#9](https://github.com/OZimbres/figma-ai-OMS/issues/9) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+1. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-2. ❗ Opened issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+2. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-3. ❗ Opened issue [#7](https://github.com/OZimbres/figma-ai-OMS/issues/7) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+3. ℹ️ Assigned issue [#7](https://github.com/OZimbres/figma-ai-OMS/issues/7) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-4. ❗ Opened issue [#6](https://github.com/OZimbres/figma-ai-OMS/issues/6) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+4. ℹ️ Assigned issue [#7](https://github.com/OZimbres/figma-ai-OMS/issues/7) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-5. ❗ Opened issue [#5](https://github.com/OZimbres/figma-ai-OMS/issues/5) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+5. ℹ️ Assigned issue [#6](https://github.com/OZimbres/figma-ai-OMS/issues/6) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
   <!--END_SECTION:activity-->
   
 </details>
