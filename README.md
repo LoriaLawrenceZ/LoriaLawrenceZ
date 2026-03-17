@@ -63,15 +63,15 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#16](https://github.com/OZimbres/figma-ai-OMS/pull/16) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+1. 🗣 Commented on [#14](https://github.com/OZimbres/figma-ai-OMS/pull/14#issuecomment-4077151825) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-2. ℹ️ Assigned PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+2. 🗣 Commented on [#14](https://github.com/OZimbres/figma-ai-OMS/pull/14#issuecomment-4077119095) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-3. 💪 Opened PR [#15](https://github.com/OZimbres/figma-ai-OMS/pull/15) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+3. 🔒 Closed issue [#7](https://github.com/OZimbres/figma-ai-OMS/issues/7) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-4. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+4. 🔒 Closed issue [#6](https://github.com/OZimbres/figma-ai-OMS/issues/6) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
 
-5. ℹ️ Assigned issue [#8](https://github.com/OZimbres/figma-ai-OMS/issues/8) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
+5. 🔒 Closed issue [#5](https://github.com/OZimbres/figma-ai-OMS/issues/5) in [OZimbres/figma-ai-OMS](https://github.com/OZimbres/figma-ai-OMS)
   <!--END_SECTION:activity-->
   
 </details>
